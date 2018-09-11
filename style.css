@@ -1,0 +1,40 @@
+body {
+	background-image: url(logo.jpg.jpg);
+	background-size: cover;
+	font-family: Raleway,Open Sans,Droid Sans,arial,sans-serif;
+	background-repeat: no-repeat;
+}
+
+.bio{
+	width: 600px;
+	 height: 200px;
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 right: 0;
+	 bottom: 0;
+	 margin: auto;
+	 text-align: center;
+}
+
+h1,h2 {
+	font-weight: 100;
+	color: white;
+}
+h2{
+font-size: 15px;
+color: white;
+}
+
+.social-links {margin-top: 50px;}
+a{
+	color: white;
+	text-decoration: none;
+
+}
+a:hover{
+	text-decoration: underline;
+}
+.fa{
+	margin-top: 0 10px;
+}
